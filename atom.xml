@@ -5,9 +5,9 @@
   <subtitle>thoughts of open source</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://deadjoe.github.io/"/>
+  <link href="http://calltrace.io/"/>
   <updated>2019-11-25T16:18:24.938Z</updated>
-  <id>https://deadjoe.github.io/</id>
+  <id>http://calltrace.io/</id>
   
   <author>
     <name>Joe Yu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Rebirth</title>
-    <link href="https://deadjoe.github.io/2019/11/25/Rebirth/"/>
-    <id>https://deadjoe.github.io/2019/11/25/Rebirth/</id>
+    <link href="http://calltrace.io/2019/11/25/Rebirth/"/>
+    <id>http://calltrace.io/2019/11/25/Rebirth/</id>
     <published>2019-11-25T11:52:00.000Z</published>
     <updated>2019-11-25T16:18:24.938Z</updated>
     
@@ -36,7 +36,7 @@
     
     
     
-      <category term="misc" scheme="https://deadjoe.github.io/tags/misc/"/>
+      <category term="misc" scheme="http://calltrace.io/tags/misc/"/>
     
   </entry>
   
