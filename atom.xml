@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>call trace</title>
+  <title>calltrace</title>
   
   <subtitle>Stories, opinions and thoughts about Open Source and IT Tech.</subtitle>
   <link href="/atom.xml" rel="self"/>
