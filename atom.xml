@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>call trace</title>
+  
+  <subtitle>Stories, opinions and thoughts about Open Source and IT Tech.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://deadjoe.github.io/"/>
+  <updated>2019-11-25T11:59:49.985Z</updated>
+  <id>https://deadjoe.github.io/</id>
+  
+  <author>
+    <name>Joe Yu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Rebirth</title>
+    <link href="https://deadjoe.github.io/2019/11/25/Rebirth/"/>
+    <id>https://deadjoe.github.io/2019/11/25/Rebirth/</id>
+    <published>2019-11-25T11:52:00.000Z</published>
+    <updated>2019-11-25T11:59:49.985Z</updated>
+    
+    <content type="html"><![CDATA[<p>Finailly back to the blogging life. Take care past and hello future !</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Finailly back to the blogging life. Take care past and hello future !&lt;/p&gt;
+      
+    
+    </summary>
+    
+    
+    
+      <category term="misc" scheme="https://deadjoe.github.io/tags/misc/"/>
+    
+  </entry>
+  
+</feed>
