@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>calltrace</title>
   
-  <subtitle>Stories, opinions and thoughts about Open Source and IT Tech.</subtitle>
+  <subtitle>thoughts of open source</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://deadjoe.github.io/"/>
