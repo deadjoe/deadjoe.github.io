@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Second Try</title>
-    <url>/2019/11/26/Second-Try/</url>
-    <content><![CDATA[<p>I have to try this again to ensure that the page can ben refreshed itself.<br>中文测试看一下显示效果。<br>再来测试一下. 2019 11 26 17:34</p>]]></content>
-  </entry>
-  <entry>
     <title>Rebirth</title>
     <url>/2019/11/25/Rebirth/</url>
-    <content><![CDATA[<p>Finally back to the blogging life. Take care past and hello future !</p>]]></content>
+    <content><![CDATA[<html><head></head><body></body></html><html><head></head><body><p>Finally back to the blogging life. Take care past and hello future !</p>
+</body></html>]]></content>
       <tags>
         <tag>misc</tag>
       </tags>
